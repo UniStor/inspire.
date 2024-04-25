@@ -1,5 +1,8 @@
 # inspire.
 # Linus Media group
+## Personal Private Cloud
+- [Paying for Cloud Storage is Stupid](https://youtu.be/QsM6b5yix0U)
+
 ## Jellyfish Fryer
 - [Here's How to Save $45,000 - The Sensible Jellyfish Fryer](https://youtu.be/c5PnP5bKz6k)
 - [What did you DO?? - The "Jellyfish Fryer" All-SSD Server](https://youtu.be/zeAce9pofvk)
